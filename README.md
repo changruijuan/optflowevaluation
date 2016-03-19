@@ -1,4 +1,4 @@
-# opticalflow
+# optflowevaluation
 
 ###Optical flow based the balance strategy for obstacles avoidance developed by Matlab mixed with C++. 
 --------------------------------------------------------------------------------------------------------------------------------------------------
