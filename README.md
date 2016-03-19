@@ -35,17 +35,18 @@ Requires Matlab (Windows).
 **Note**: First the Matlab wrapper needs to be compiled into a mex file using Matlab by going to the directory containing the library 
 and running the following command within Matlab:
 
->>>
+```
 mexall(1) // optical flow methods of LK, HS, BM. 
 mexall(2) // optical flow methods of FB. 
 mexall(3) // optical flow methods of PyrLK. 
-
+```
 
 
 Start the robot simulation by typing in Matlab:
 
->>>
+```
 mainMatlab  // You can comment or uncomment the codes to run the function you want.
+```
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
