@@ -17,14 +17,13 @@ The observation viewpoint is used as a substitute for on-board camera.
 
 * C++ is mainly adopted in the realization of optical flow algorithms, the balance strategy and Munsell Color System. 
 
->>>
+>
 1. Five public optical optical methods are selected in our experiments: Lucas-Kanade (LK), Horn-Schunck (HS), Block Matching (BM),
 FarneBack (FB) and Pyramid Lucas-Kanade (PyrLK).
-
+>
 2. The balance strategy: If the sum of the left flow is bigger, the robot will be guided right, and vice versa.  
-
+>
 3. Munsell Color System is to visualize OF.
->>>
 
 * MATLAB is mainly used for capturing the image frames and controlling the motion of the observation viewpoint.
 
