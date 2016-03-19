@@ -2,7 +2,7 @@
 
 ###Optical flow based the balance strategy for obstacles avoidance developed by Matlab mixed with C++. 
 
-More relevant infomation can be found in <a href="http://buaaopt.sinaapp.com/">"Experimental Evaluation on Optical Flow for Obstacle Avoidance"</a>
+######More relevant infomation can be found in <a href="http://buaaopt.sinaapp.com/">"Experimental Evaluation on Optical Flow for Obstacle Avoidance"</a>
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
