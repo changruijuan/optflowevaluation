@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-* src: The source code of Matlab and C++;
+* src: The source codes of Matlab and C++;
 * video: It is place where put the video file or the results that are the output of the program. 
 * vrlm: The synthetic environments.
 
