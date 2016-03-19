@@ -1,0 +1,6 @@
+# git ignore file
+./src/*.mexw64
+./src/*.cd
+./src/*.vcxproj*
+./video/*
+./vrlm/*.bak
